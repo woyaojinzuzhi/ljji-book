@@ -1,0 +1,23 @@
+{
+  "name": "ljji-book",
+  "version": "1.0.0",
+  "description": "gitbook demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woyaojinzuzhi/ljji-book.git"
+  },
+  "keywords": [],
+  "author": "woyaojinzuzhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woyaojinzuzhi/ljji-book/issues"
+  },
+  "homepage": "https://github.com/woyaojinzuzhi/ljji-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
