@@ -1,2 +1,3 @@
-# ljji-book
-gitbook demo
+# 网文小说简介
+
+当前网络红文简介，小说热榜。
